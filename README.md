@@ -3,10 +3,9 @@ Este es un repositorio básico para comprobar cómo funciona GitHub y, especialm
 
 Tu tarea consiste en modificar este fichero README.md de modo que pongas tus datos en formato MarkDown:
 
-### Víctor M. Rivas Santos
+### Adrián Pérez Ortega
 
-Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
+Estudiante de la Universidad de Jaén.
+* **Correo**: apo00015@red.ujaen.es
+* **GitHub**: https://trello.com/b/nS0pL7Fn
+* **Trello**: https://github.com/apo00015
